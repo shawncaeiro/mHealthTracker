@@ -19,10 +19,10 @@ Most of the application code is found in the HealthViewController.swift file. Se
 
 How to run application
 
-* Note! – Project can only be run on a Mac with xCode installed. *
+Note!!!! – Project can only be run on a Mac with xCode installed. 
 
 1.	Download github repo.
 2.	Open mHealthTracker.xcodeproj
 3.	In the top left corner, pick the device you wish to run the app on & click play.
 4.	Ensure that the mHealthTracker app is allowed to access “Motion & Fitness” . If it is not, please enable it, fully restart the app (by leaving the app, double clicking home and swiping the app away).
-a.	 “Motion & Fitness” access is found in Settings -> mHealthTracker
+5.	(“Motion & Fitness” access is found in Settings -> mHealthTracker)
